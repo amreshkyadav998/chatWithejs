@@ -1,0 +1,41 @@
+body{
+    margin-left: 20px;
+}
+
+h3{
+    font-size: 51px;
+    text-align: center;
+    background-color: #25d366;
+    border-radius: 15px;
+}
+.chat{
+    background-color: rgb(7, 201, 172);
+    padding: 20px;
+    border-radius: 16px;
+    font-size: 18px;
+    /* display: inline-block; */
+    /* width: 25%; */
+    text-align: center;
+    /* margin-left: 25%; */
+}
+
+.msg{
+    background-color: rebeccapurple;
+    color: white;
+    padding: 5px 15px;
+    border-radius: 12px;
+}
+
+.msg button{
+    padding: 5px;
+    border-radius: 5px;
+    background-color: #f20606;
+}
+.new{
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #07cee8;
+    font-size: 18px;
+    text-align: center;
+    margin-left: 46%;
+}
